@@ -1,4 +1,4 @@
-# captive.portal.io
+# Simple Captive Portal
 
 A simple Captive Portal that collect your personal data information such as your wifi password
 This portal are made by bootstrap as the framework
